@@ -1,9 +1,3 @@
-# Sales-Conversion-Prediction-for-Migrando
-Predicts sales conversion probabilities for Migrando's settlement permit and naturalization services using machine learning techniques, facilitating efficient allocation of resources and strategic decision-making.
-
-
-
-
 # Sales Conversion Prediction for Migrando
 
 This project focuses on predicting sales conversion probabilities for Migrando's settlement permit and naturalization services using machine learning techniques. Migrando provides two products: settlement permit and naturalization, handling the implementation and bureaucratic efforts for the application post-purchase. The dataset comprises demographic information, past interactions, and outcomes.
