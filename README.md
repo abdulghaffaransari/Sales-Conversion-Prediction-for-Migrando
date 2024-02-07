@@ -20,18 +20,18 @@ The project encompasses the following steps:
 - `Cleaned_Data.csv`: Sample dataset featuring pertinent features for sales conversion prediction.
 
 
-
+## Power BI
 
 The Power BI dashboard complements the sales conversion prediction project for Migrando, providing a visual representation of key insights derived from the dataset. The dashboard offers an interactive interface to explore demographic trends, past interactions, and sales conversion probabilities.
 
-## Features
+### Features
 
 - **Responsive Design:** The dashboard is optimized for various screen sizes, ensuring accessibility across desktop and mobile devices.
 - **Multiple Visualizations:** Utilizes diverse chart types such as bar charts, line graphs, and scatter plots to showcase different aspects of the data.
 - **Filtering and Interactivity:** Incorporates slicers, filters, and drill-through functionalities to enable users to delve into specific segments and gain deeper insights.
 - **Predictive Analytics:** Integrates predictions from machine learning models to forecast sales conversion probabilities based on demographic and interaction data.
 
-## Usage
+### Usage
 
 1. **Download Power BI Desktop:**
    - Install [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/) to view and interact with the dashboard.
@@ -46,7 +46,7 @@ The Power BI dashboard complements the sales conversion prediction project for M
 4. **Review Predictive Analytics:**
    - Analyze the predictions and probabilities provided by the machine learning models to understand sales conversion trends.
 
-## Files Included
+### Files Included
 
 - `Migrando Analysis.pbix`: Power BI file containing the responsive dashboard.
 
